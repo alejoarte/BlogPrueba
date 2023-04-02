@@ -4,6 +4,12 @@ body h1{
     font-family: sans-serif;
 }
 
+#cabecera{
+    background-color: blue;
+    border-radius: 0%;
+    border-color: green;
+}
+
 #container{
     width: 70%;
     padding: 1em;
